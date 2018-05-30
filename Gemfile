@@ -18,6 +18,8 @@ gem 'mysql2', '>= 0.3.18', '< 0.6.0'
 gem 'dotenv-rails'
 
 
+gem 'rails-controller-testing'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
